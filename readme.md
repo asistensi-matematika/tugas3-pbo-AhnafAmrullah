@@ -1,8 +1,8 @@
 # TUGAS 3 ASISTENSI PBO - Jumat, 4 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: MUHAMMAD AHNAF AMRULLAH
 
-NRP: `isi nrp disini`
+NRP: 06111840000051
 
 ## Deskripsi Soal
 Buat class **LinearEquation** untuk sistem persamaan linear 2x2:
@@ -51,7 +51,8 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 ![](/img/3.png)
 
 ## Screenshot hasil
-masukkan screenshot output disini
+
+
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
