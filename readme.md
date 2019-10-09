@@ -51,6 +51,8 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 ![](/img/3.png)
 
 ## Screenshot hasil
+![Screenshot Studio capture #2](https://user-images.githubusercontent.com/55898087/66478852-81e16500-eac5-11e9-8f44-1db53bc0951c.png)
+![Screenshot Studio capture #1](https://user-images.githubusercontent.com/55898087/66478854-8279fb80-eac5-11e9-85bb-86dd55c0da28.png)
 
 
 
